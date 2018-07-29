@@ -39,3 +39,10 @@ Thumbs.db
 .idea/
 target/
 *.iml
+
+#Others
+#####################
+.gitignore
+mvnw
+mvnw.cmd
+.mvn/
